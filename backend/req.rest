@@ -1,0 +1,19 @@
+GET http://localhost:3002/hotels
+
+###
+
+POST http://localhost:3002/reservation
+Content-Type: application/json
+
+{
+    "name" : "reservation1",
+    "email" : "reservation@gmail.com"
+}
+
+###
+
+GET http://localhost:3002/orders
+
+###
+
+DELETE http://localhost:3002/delete/60da61e0068f414984f13a39

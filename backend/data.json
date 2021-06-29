@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Hotel 1",
+        "desc" : "This is Hotel 1",
+        "image" : "images/img.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Hotel 2",
+        "desc" : "This is Hotel 2",
+        "image" : "images/img.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Hotel 3",
+        "desc" : "This is Hotel 3",
+        "image" : "images/img.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Hotel 4",
+        "desc" : "This is Hotel 4",
+        "image" : "images/img.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Hotel 5",
+        "desc" : "This is Hotel 5",
+        "image" : "images/img.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Hotel 6",
+        "desc" : "This is Hotel 6",
+        "image" : "images/img.jpg"
+    }
+]
