@@ -17,7 +17,11 @@ export default function Orders () {
 
     // delete orders by ID :
     const deleteOrder = (id) => {
-        console.log(id)
+        fetch(`http://localhost:3002/delete/${id}`, {
+            method : 'DELETE'
+        }).then(res => {
+            renderOrderData()
+        })
     }
 
     useEffect(() => {
